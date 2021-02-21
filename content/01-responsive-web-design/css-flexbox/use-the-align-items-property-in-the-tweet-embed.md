@@ -1,6 +1,6 @@
 ---
 id: 587d78ad367417b2b2512af9
-title: Use the align-items Property in the Tweet Embed
+title: Use a Propriedade align-items no Tweet Incorporado
 challengeType: 0
 videoUrl: 'https://scrimba.com/p/pVaDAv/cd3PNfq'
 forumTopicId: 301106
@@ -9,15 +9,15 @@ dashedName: use-the-align-items-property-in-the-tweet-embed
 
 # --description--
 
-The last challenge introduced the `align-items` property and gave an example. This property can be applied to a few tweet embed elements to align the flex items inside them.
+O último desafio introduziu a propriedade `align-items` e deu um exemplo. Esta propriedade pode ser aplicada a alguns elementos embutidos no tweet para alinhar os itens com flex dentro deles.
 
 # --instructions--
 
-Add the CSS property `align-items` to the header's `.follow-btn` element. Set the value to `center`.
+Adicione a propriedade CSS `align-items` no elemento `.follow-btn` do header. Defina seu valor para `center`.
 
 # --hints--
 
-The `.follow-btn` element should have the `align-items` property set to a value of `center`.
+O elemento `.follow-btn` deve possuir a propriedade `align-items` definida como `center`.
 
 ```js
 assert($('.follow-btn').css('align-items') == 'center');
@@ -99,7 +99,7 @@ assert($('.follow-btn').css('align-items') == 'center');
   </div>
 </header>
 <div id="inner">
-  <p>I meet so many people who are in search of that one trick that will help them work smart. Even if you work smart, you still have to work hard.</p>
+  <p>Conheço muitas pessoas que estão em busca daquele truque que as ajudará a trabalhar de maneira inteligente. Mesmo se você trabalhar de forma inteligente, ainda terá que trabalhar muito.</p>
   <span class="date">1:32 PM - 12 Jan 2018</span>
   <hr>
 </div>
@@ -194,7 +194,7 @@ assert($('.follow-btn').css('align-items') == 'center');
   </div>
 </header>
 <div id="inner">
-  <p>I meet so many people who are in search of that one trick that will help them work smart. Even if you work smart, you still have to work hard.</p>
+  <p>Conheço muitas pessoas que estão em busca daquele truque que as ajudará a trabalhar de maneira inteligente. Mesmo se você trabalhar de forma inteligente, ainda terá que trabalhar muito.</p>
   <span class="date">1:32 PM - 12 Jan 2018</span>
   <hr>
 </div>
